@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300&display=swap');
+
+hr {
+    width: 200px;
+}
+
+#academy {
+    font-family: 'Signika', sans-serif;
+    color: black;
+    float: left;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+#academy2 {
+    font-family: 'Signika', sans-serif;
+    color: black;
+    float: left;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+body {
+    background-color: #FAF4FF;
+}
+
+#Content {
+    text-align: center;
+    font-family: 'Signika', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.length1 {
+    width: 200px;
+}
+
+.all {
+    text-align: center;
+    font-family: 'Signika', sans-serif;
+}
+
+.centre {
+    text-align: right;
+    margin-right: 10px;
+
+
+}
+
+.nav {
+    font-size: 1.5rem;
+}
+
+.logo {
+    border-radius: 50%;
+    box-shadow: 1px 1px 10px 1px;
+    margin-top: 5px;
+
+}
+
+.pages {
+    margin-top: 70px;
+    text-align: center;
+    font-family: 'Signika', sans-serif;
+}
+
+.department {
+    text-align: center;
+    font-family: 'Signika', sans-serif;
+    font-size: 1.8rem;
+    margin-top: 200px;
+}
+
+.response {
+    text-align: center;
+
+}
+
+.mybutton a {
+    background-color: black;
+    padding: 10px 19px;
+    font-family: 'Signika', sans-serif;
+    border-radius: 5px;
+    border: 1px solid;
+    color: white;
+
+}
+
+.mybutton a:hover {
+    background-color: black;
+}
+
+
+
+
+
+#dark {
+    text-align: center;
+    font-size: 1rem;
+    margin-top: -40px;
+    font-family: 'Signika', sans-serif;
+}
+
+.video {
+    text-align: center;
+    margin: 0 161px 0px 161px;
+    box-shadow: 1px 1px 10px 1px;
+
+
+
+}
+
+.container {
+    text-align: center;
+}
+
+p {
+    margin: 0;
+}
+
+.font {
+    font-family: 'Signika', sans-serif;
+}
+
+.down {
+    text-align: center;
+    padding-bottom: 80px;
+    padding-top: 10px;
+}
+
+.center {
+    text-align: center;
+}
+
+.adjust {
+    text-align: center;
+    text-align: justify;
+    font-family: 'Signika', sans-serif;
+    margin: 0 30px 0 30px
+}
+
+.jumbotron {
+    margin: 0 40px 30px 40px;
+    box-shadow: 1px 1px 10px 1px;
+    background-color: #ffffff;
+}
+
+.title {
+    font-family: 'Signika', sans-serif;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.name {
+    font-family: 'Signika', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.2rem;
+}
+
+.mail {
+    font-family: 'Signika', sans-serif;
+    text-align: center;
+    font-size: 1.2rem;
+    margin-top: 50px;
+}
+
+.contact {
+    font-family: 'Signika', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.2rem;
+    margin-top: -10px;
+}
+
+
+.wifi {
+    text-align: center;
+}
+
+.wiki {
+    font-family: 'Signika', sans-serif;
+    color: black;
+    font-size: 2rem;
+}
+
+
+
+.wikipedia {
+    font-family: 'Signika', sans-serif;
+    color: black;
+    font-size: 2rem;
+
+}
+
+
+.tarana {
+    text-align: center;
+}
+
+.taranah1 {
+    font-family: 'Signika', sans-serif;
+    text-align: center;
+    margin-top: 200px;
+}
+
+
+li {
+    padding-right: 10px;
+}
+
+.select {
+    text-align: center;
+    font-family: 'Signika', sans-serif;
+    margin-top: 5rem;
+}
+
+#grp {
+    background-color: #F3F1F5;
+    padding: 10px 19px;
+    border-radius: 5px;
+    border: 1px solid;
+    color: white;
+    font-family: 'Signika', sans-serif;
+    margin-top: -10px;
+}
+
+
+.table {
+    text-align: center;
+    font-family: 'Signika', sans-serif;
+    font-weight: bold;
+}
+
+.cen {
+    text-align: center;
+    align-items: center;
+}
+
+.cen2 {
+    text-align: center;
+    align-items: center;
+    padding: 0 10px;
+}
+
+hr {
+    width: 300px;
+}
+
+.centerul {
+    font-family: 'Signika', sans-serif;
+    font-weight: bold;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
